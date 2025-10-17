@@ -36,7 +36,7 @@
 			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
 		</div>
 		<button class="theme-toggle" onclick={toggleDarkMode}>
-			{darkMode ? '☀️' : '🌙'}
+			{darkMode ? '☀︎':'⏾⋆.˚'}
 		</button>
 	</div>
 </nav>

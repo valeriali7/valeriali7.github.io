@@ -2,7 +2,7 @@
 	<div class="container">
 		<h2>Experience</h2>
 		<div class="content-block">
-			<h3>Teaching Assistant</h3>
+			<h3>Graduate Teaching Assistant</h3>
 			<p class="organization">Department of Spanish & Portuguese, University of Pittsburgh</p>
 			<p class="date">August 2025 - Present</p>
 			<p>
@@ -10,11 +10,12 @@
 			</p>
 		</div>
 		<div class="content-block">
-			<h3>Teaching Assistant</h3>
+			<h3>Undergraduate Teaching Assistant</h3>
 			<p class="organization">Program in Linguistics, Emory University</p>
 			<p class="date">January 2024 - May 2025</p>
 			<p>
-				Teaching assistant for LING 201 (Foundations of Linguistics) with Dr. Erica R. Britt and LING 101 (Language Diversity in the US) with Dr. Susan Tamasi. 
+				Teaching assistant for LING 201
+				 (Foundations of Linguistics) with Dr. Erica R. Britt and LING 101 (Language Diversity in the US) with Dr. Susan Tamasi. 
 			</p>
 		</div>
 		<div class="content-block">
@@ -25,14 +26,7 @@
 				Tutored 100+ students across Emory College of Arts and Sciences, Nell Hodgson Woodruff School of Nursing, Laney Graduate School, and Emory Medical Imaging Program on writing in multiple disciplines, styles, and languages. Worked with multiple international students and monastic exchange students with Emory-Tibet Science Initiative as an ELL tutor.
 			</p>
 		</div>
-		<div class="content-block">
-			<h3>Research Ambassador & Communications Co-Captain</h3>
-			<p class="organization">Undergraduate Research Programs, Emory University Pathways Center</p>
-			<p class="date">August 2024 - March 2025</p>
-			<p>
-				Co-led all marketing and communications efforts for URP programming across the Emory community. Provided peer mentorship through 1-on-1 appointments with students to facilitate research opportunities. Organized and facilitated workshops and events to promote research activity and resources on campus.
-			</p>
-		</div>
+
 	</div>
 </section>
 

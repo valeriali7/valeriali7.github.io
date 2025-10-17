@@ -1,5 +1,5 @@
 <script>
-	import profileImage from '$lib/assets/profile.webp';
+	import profileImage from '$lib/assets/profile.jpg';
 </script>
 
 <section class="hero" id="about">

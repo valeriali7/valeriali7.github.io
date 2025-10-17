@@ -9,11 +9,30 @@
 				<img src={profileImage} alt="Profile" class="profile-image" />
 				<div class="social-links">
 					<a href="https://www.linkedin.com/in/valeria-li88/" target="_blank" rel="noopener noreferrer">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+							<rect x="2" y="9" width="4" height="12"></rect>
+							<circle cx="4" cy="4" r="2"></circle>
+						</svg>
 						<span>LinkedIn</span>
 					</a>
 					<a href="https://drive.google.com/file/d/1Q7LZD1qW0qz2LdCSPUmUodNLgSvElaAQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+							<polyline points="14 2 14 8 20 8"></polyline>
+							<line x1="16" y1="13" x2="8" y2="13"></line>
+							<line x1="16" y1="17" x2="8" y2="17"></line>
+							<polyline points="10 9 9 9 8 9"></polyline>
+						</svg>
 						<span>CV</span>
 					</a>
+					<div class="email-button">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<rect x="2" y="4" width="20" height="16" rx="2"></rect>
+							<path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+						</svg>
+						<span>val81@pitt.edu</span>
+					</div>
 				</div>
 			</div>
 			<div class="about-content">
@@ -88,33 +107,29 @@
 		width: 100%;
 	}
 
-	.social-links a {
-		padding: 0.75rem 1.25rem;
-		background-color: transparent;
+	.social-links a,
+	.email-button {
 		color: #0f172a;
-		text-align: center;
-		font-weight: 600;
+		font-weight: 500;
 		font-size: 1rem;
-		border: 2px solid #0f172a;
-		border-radius: 50px;
-		transition: background-color 0.3s ease, color 0.3s ease;
 		text-decoration: none;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		transition: color 0.3s ease;
 	}
 
 	.social-links a:hover {
-		background-color: #0f172a;
-		color: #f8fafc;
+		color: #5470b3;
 	}
 
-	:global(main.dark) .social-links a {
-		background-color: transparent;
+	:global(main.dark) .social-links a,
+	:global(main.dark) .email-button {
 		color: #f8fafc;
-		border-color: #f8fafc;
 	}
 
 	:global(main.dark) .social-links a:hover {
-		background-color: #f8fafc;
-		color: #0f172a;
+		color: #7c96d9;
 	}
 
 	.about-content {

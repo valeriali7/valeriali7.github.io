@@ -78,7 +78,7 @@
 	}
 
 	:global(main.dark p) {
-		color: #e2e8f0;
+		color: #ffffff;
 	}
 
 	:global(a) {
@@ -91,7 +91,7 @@
 	}
 
 	:global(a:hover) {
-		color: #5470b3;
+		color: #9f5273;
 	}
 
 	:global(main.dark a) {

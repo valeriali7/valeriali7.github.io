@@ -60,7 +60,7 @@
 	}
 
 	nav.dark {
-		background-color: #1e293b;
+		background-color: #0f172a;
 	}
 
 	.nav-container {
@@ -86,7 +86,7 @@
 	.hamburger span {
 		width: 24px;
 		height: 2px;
-		background-color: #475569;
+		background-color: #1e293b;
 		transition: background-color 0.3s ease;
 	}
 
@@ -134,11 +134,11 @@
 	}
 
 	nav.dark .theme-toggle {
-		border-color: #475569;
+		border-color: #1e293b;
 	}
 
 	nav.dark .theme-toggle:hover {
-		background-color: #334155;
+		background-color: #0f172a;
 	}
 
 	main {
@@ -176,7 +176,7 @@
 		}
 
 		nav.dark .nav-links {
-			background-color: #1e293b;
+			background-color: #0f172a;
 		}
 
 		.nav-links.open {
@@ -191,7 +191,7 @@
 		}
 
 		nav.dark .nav-links a {
-			border-bottom-color: #334155;
+			border-bottom-color: #0f172a;
 		}
 
 		.nav-links a:last-child {

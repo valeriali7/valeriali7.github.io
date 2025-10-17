@@ -100,7 +100,7 @@
 	}
 
 	.nav-links a {
-		font-size: 0.9rem;
+		font-size: 1.25rem;
 		font-weight: 500;
 		color: #475569;
 		transition: color 0.2s ease;

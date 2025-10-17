@@ -6,7 +6,7 @@
 				<strong>Li. V. </strong> (in prep). <em>Negotiations of power through language in animated media.</em>
 			</p>
 			<p class="publication">
-				<strong>Yamasaki, B. L., Li, V., Woodruff, S., Luk, G., & Purpura., D. J.</strong> (in prep). <em>A qualitative review of state-level early learning standards for language and literacy.</em>
+				Yamasaki, B. L., <strong>Li, V.</strong>, Woodruff, S., Luk, G., & Purpura., D. J. (in prep). <em>A qualitative review of state-level early learning standards for language and literacy.</em>
 			</p>
 		</div>
 	</div>

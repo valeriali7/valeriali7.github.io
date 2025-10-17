@@ -30,10 +30,10 @@
 		</button>
 		<div class="nav-links" class:open={mobileMenuOpen}>
 			<a href="#about" onclick={closeMobileMenu}>About</a>
-			<a href="#research" onclick={closeMobileMenu}>Research</a>
-			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
 			<a href="#publications" onclick={closeMobileMenu}>Publications</a>
 			<a href="#presentations" onclick={closeMobileMenu}>Presentations</a>
+			<a href="#research" onclick={closeMobileMenu}>Research</a>
+			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
 		</div>
 		<button class="theme-toggle" onclick={toggleDarkMode}>
 			{darkMode ? '☀️' : '🌙'}
@@ -104,6 +104,7 @@
 		font-weight: 500;
 		color: #475569;
 		transition: color 0.2s ease;
+		text-decoration: none;
 	}
 
 	.nav-links a:hover {

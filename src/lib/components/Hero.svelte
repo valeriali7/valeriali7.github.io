@@ -83,25 +83,30 @@
 
 	.social-links a {
 		padding: 0.75rem 1.25rem;
-		background-color: #0f172a;
-		color: #f8fafc;
+		background-color: transparent;
+		color: #0f172a;
 		text-align: center;
 		font-weight: 500;
-		font-size: 0.9rem;
+		font-size: 1rem;
+		border: 2px solid #0f172a;
+		border-radius: 50px;
 		transition: background-color 0.3s ease, color 0.3s ease;
 	}
 
 	.social-links a:hover {
-		background-color: #1e293b;
+		background-color: #0f172a;
+		color: #f8fafc;
 	}
 
 	:global(main.dark) .social-links a {
-		background-color: #f1f5f9;
-		color: #0f172a;
+		background-color: transparent;
+		color: #f8fafc;
+		border-color: #f8fafc;
 	}
 
 	:global(main.dark) .social-links a:hover {
-		background-color: #cbd5e1;
+		background-color: #f8fafc;
+		color: #0f172a;
 	}
 
 	.about-content {

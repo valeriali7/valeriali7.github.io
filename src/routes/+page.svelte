@@ -32,7 +32,7 @@
 			<a href="#about" onclick={closeMobileMenu}>About</a>
 			<a href="#publications" onclick={closeMobileMenu}>Publications</a>
 			<a href="#presentations" onclick={closeMobileMenu}>Presentations</a>
-			<a href="#research" onclick={closeMobileMenu}>Research</a>
+			<!-- <a href="#research" onclick={closeMobileMenu}>Research</a> -->
 			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
 		</div>
 		<button class="theme-toggle" onclick={toggleDarkMode}>
@@ -45,7 +45,7 @@
 	<Hero />
 	<Publications />
 	<Presentations />
-	<Research />
+	<!-- deleting cuz it look stoopid <Research /> -->
 	<Experience />
 </main>
 

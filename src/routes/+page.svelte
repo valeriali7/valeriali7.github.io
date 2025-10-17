@@ -29,11 +29,11 @@
 			<span></span>
 		</button>
 		<div class="nav-links" class:open={mobileMenuOpen}>
-			<a href="#about" onclick={closeMobileMenu}>About</a>
-			<a href="#publications" onclick={closeMobileMenu}>Publications</a>
-			<a href="#presentations" onclick={closeMobileMenu}>Presentations</a>
+			<a href="#about" onclick={closeMobileMenu}>about</a>
+			<a href="#publications" onclick={closeMobileMenu}>publications</a>
+			<a href="#presentations" onclick={closeMobileMenu}>presentations</a>
 			<!-- <a href="#research" onclick={closeMobileMenu}>Research</a> -->
-			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
+			<a href="#experience" onclick={closeMobileMenu}>experience</a>
 		</div>
 		<button class="theme-toggle" onclick={toggleDarkMode}>
 			{darkMode ? '☀︎':'⏾'}
@@ -100,7 +100,7 @@
 	}
 
 	.nav-links a {
-		font-size: 1.25rem;
+		font-size: 1.13rem;
 		font-weight: 500;
 		color: #475569;
 		transition: color 0.2s ease;

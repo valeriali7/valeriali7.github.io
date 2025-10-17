@@ -18,6 +18,7 @@
 			</div>
 			<div class="about-content">
 				<h1>Valeria Li</h1>
+				<p class="pronunciation">/və.ˈlɛ.ɹi.ə ˈli/</p>
 				<h3>PhD Student in Hispanic Linguistics @ UPitt</h3>
 				<p>
 					I am a PhD student in Hispanic Linguistics at the University of Pittsburgh, advised by Dr. Marta Ortega-Llebaria and Dr. Scott F. Kiesling. My research interests include sociolinguistics, phonetics, and language variation.
@@ -111,6 +112,18 @@
 
 	.about-content {
 		flex: 1;
+	}
+
+	.pronunciation {
+		font-size: 1.25rem;
+		color: #64748b;
+		margin-top: -0.75rem;
+		margin-bottom: 0.75rem;
+		padding-left: 0.5rem;
+	}
+
+	:global(main.dark) .pronunciation {
+		color: #94a3b8;
 	}
 
 	@media (max-width: 768px) {

@@ -82,16 +82,24 @@
 
 	:global(a) {
 		color: #334155;
-		text-decoration: none;
-		transition: opacity 0.2s ease, color 0.3s ease;
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
+		text-underline-offset: 2px;
+		transition: transform 0.2s ease, color 0.3s ease;
+		display: inline-block;
 	}
 
 	:global(a:hover) {
-		opacity: 0.6;
+		color: #0f172a;
+		transform: scale(1.05);
 	}
 
 	:global(main.dark a) {
-		color: #f1f5f9;
+		color: #cbd5e1;
+	}
+
+	:global(main.dark a:hover) {
+		color: #ffffff;
 	}
 
 	:global(html) {

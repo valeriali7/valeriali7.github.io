@@ -20,15 +20,20 @@
 				<h1>Valeria Li <span class="pronunciation">/və.ˈlɛ.ɹi.ə ˈli/</span></h1>
 				<h3>PhD Student in Hispanic Linguistics @ UPitt</h3>
 				<p>
-					I am a PhD student in Hispanic Linguistics at the University of Pittsburgh, advised by Dr. Marta Ortega-Llebaria and Dr. Scott F. Kiesling. My research interests include sociolinguistics, phonetics, and language variation.
+					Hi! I'm Valeria, a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>.
 				</p>
 				<p>
-					I graduated from Emory University in 2025 with a B.S. in Psychology & Linguistics, earning Highest Honors in Linguistics and completing my honors thesis on the linguistic structure and discursive roles of trauma dumping as a communicative action.
+					My research primarily exists in the areas of Spanish language variation, sociophonetics, and discourse analysis. I am particularly interested in multilingualism in Latin America. I am also tangentially interested in the development and maintenance of virtual language and culture.
 				</p>
-
-				<!-- <p>
-					<strong>Honors and Awards:</strong> Emory University Program in Linguistics - Award for Outstanding Leadership and Service; Charles Elias Shepard Scholarship; Emory Pathways Center Conference Grant
-				</p> -->
+				<p>
+					I graduated from Emory University with a B.S. in Psychology and Linguistics with Highest Honors. My honors research was advised by <a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank" rel="noopener noreferrer">Erica R. Britt</a>, <a href="https://psychology.emory.edu/people/faculty/yamasaki-brianna.html" target="_blank" rel="noopener noreferrer">Brianna L. Yamasaki</a>, and <a href="https://www.ericakanesaka.com/" target="_blank" rel="noopener noreferrer">Erica Kanesaka</a> on discourse analysis of virtual language. I was also part of the <a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">Brain, Behavior, and Broader Learning Laboratory</a> under Brianna L. Yamasaki where I conducted neuropsychological research on the intersection of multilingualism and cognitive behaviors and development such as executive function.
+				</p>
+				<p>
+					Currently, I am an instructor of Spanish language at Pitt supervised by <a href="https://www.spanport.pitt.edu/people/dolores-lima" target="_blank" rel="noopener noreferrer">Dolores Lima</a>, teaching courses like SPAN 0103 Intermediate Spanish 3. At Emory, I was extensively involved with the <a href="https://writingcenter.emory.edu/index.html" target="_blank" rel="noopener noreferrer">Emory Writing Center</a> supervised by <a href="https://melissatyang.com/" target="_blank" rel="noopener noreferrer">Melissa T. Yang</a> and <a href="https://levinarnsperger.com/" target="_blank" rel="noopener noreferrer">Levin Arnsperger</a> where I worked as a writing consultant and English Language Learner instructor for ESL students.
+				</p>
+				<p>
+					During my free time, I enjoy being indecisive over sweet treats and <a href="https://drive.google.com/drive/folders/1f-asKUhYbjSqp6ypb9Um-hOj8pRSzaw9?usp=drive_link" target="_blank" rel="noopener noreferrer">cooking</a> (especially for friends)!
+				</p>
 			</div>
 		</div>
 	</div>
@@ -47,9 +52,7 @@
 	}
 
 	.hero-content {
-		display: flex;
-		gap: 3rem;
-		align-items: flex-start;
+		position: relative;
 	}
 
 	.profile-section {
@@ -57,7 +60,10 @@
 		flex-direction: column;
 		align-items: center;
 		gap: 1.25rem;
-		min-width: 240px;
+		width: 240px;
+		float: right;
+		margin-left: 3rem;
+		margin-bottom: 2rem;
 	}
 
 	.profile-image {
@@ -86,11 +92,12 @@
 		background-color: transparent;
 		color: #0f172a;
 		text-align: center;
-		font-weight: 500;
+		font-weight: 600;
 		font-size: 1rem;
 		border: 2px solid #0f172a;
 		border-radius: 50px;
 		transition: background-color 0.3s ease, color 0.3s ease;
+		text-decoration: none;
 	}
 
 	.social-links a:hover {
@@ -133,12 +140,15 @@
 		}
 
 		.hero-content {
+			display: flex;
 			flex-direction: column;
 			align-items: center;
 			gap: 2rem;
 		}
 
 		.profile-section {
+			float: none;
+			margin: 0;
 			width: 100%;
 			max-width: 240px;
 		}

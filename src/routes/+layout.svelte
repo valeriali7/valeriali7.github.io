@@ -39,7 +39,7 @@
 	}
 
 	:global(main.dark h1) {
-		color: #f1f5f9;
+		color: #ffffff;
 	}
 
 	:global(h2) {
@@ -53,7 +53,7 @@
 	}
 
 	:global(main.dark h2) {
-		color: #f1f5f9;
+		color: #ffffff;
 	}
 
 	:global(h3) {
@@ -66,7 +66,7 @@
 	}
 
 	:global(main.dark h3) {
-		color: #cbd5e1;
+		color: #f1f5f9;
 	}
 
 	:global(p) {
@@ -77,7 +77,7 @@
 	}
 
 	:global(main.dark p) {
-		color: #94a3b8;
+		color: #e2e8f0;
 	}
 
 	:global(a) {
@@ -91,7 +91,7 @@
 	}
 
 	:global(main.dark a) {
-		color: #cbd5e1;
+		color: #f1f5f9;
 	}
 
 	:global(html) {

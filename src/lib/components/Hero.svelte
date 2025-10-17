@@ -120,7 +120,7 @@
 	}
 
 	:global(main.dark) .pronunciation {
-		color: #94a3b8;
+		color: #cbd5e1;
 	}
 
 	@media (max-width: 768px) {

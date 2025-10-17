@@ -60,12 +60,22 @@
 		color: #666;
 		font-size: 0.875rem;
 		margin-bottom: 0.5rem;
+		transition: color 0.3s ease;
+	}
+
+	:global(main.dark) .date {
+		color: #cbd5e1;
 	}
 
 	.organization {
 		color: #111;
 		font-weight: 500;
 		margin-bottom: 0.25rem;
+		transition: color 0.3s ease;
+	}
+
+	:global(main.dark) .organization {
+		color: #f1f5f9;
 	}
 
 	@media (max-width: 768px) {

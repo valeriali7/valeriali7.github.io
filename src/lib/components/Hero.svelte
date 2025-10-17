@@ -19,7 +19,8 @@
 			<div class="about-content">
 				<h1>Valeria Li <span class="pronunciation">/və.ˈlɛ.ɹi.ə ˈli/</span></h1>
 				<h3>PhD Student in Hispanic Linguistics @ UPitt</h3>
-				<p>
+				<!-- To delete paragraph, delete from <p> to </p> -->
+				<p> 
 					Hi! I'm Valeria, a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>.
 				</p>
 				<p>

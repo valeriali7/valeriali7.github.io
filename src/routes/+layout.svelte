@@ -90,8 +90,7 @@
 	}
 
 	:global(a:hover) {
-		color: #0f172a;
-		transform: scale(1.05);
+		color: #5470b3;
 	}
 
 	:global(main.dark a) {

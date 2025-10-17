@@ -54,7 +54,7 @@
 	nav {
 		position: sticky;
 		top: 0;
-		background-color: #ffffff;
+		background-color: #f8fafc;
 		z-index: 100;
 		transition: background-color 0.3s ease;
 	}

@@ -10,6 +10,8 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
 	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@500;600;700&display=swap" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">
+
 </svelte:head>
 
 {@render children?.()}
@@ -22,7 +24,7 @@
 	}
 
 	:global(body) {
-		font-family: 'Source Sans 3', sans-serif;
+		font-family: 'Nunito', sans-serif;
 		line-height: 1.6;
 		color: #1e293b;
 		background-color: #f8fafc;
@@ -30,7 +32,7 @@
 	}
 
 	:global(h1) {
-		font-family: 'Source Sans 3', sans-serif;
+		font-family: 'Nunito', sans-serif;
 		font-size: clamp(2rem, 5vw, 3rem);
 		font-weight: 700;
 		color: #0f172a;
@@ -44,7 +46,7 @@
 	}
 
 	:global(h2) {
-		font-family: 'Source Sans 3', sans-serif;
+		font-family: 'Nunito', sans-serif;
 		font-size: clamp(1.5rem, 4vw, 2rem);
 		font-weight: 600;
 		color: #0f172a;
@@ -58,7 +60,7 @@
 	}
 
 	:global(h3) {
-		font-family: 'Source Sans 3', sans-serif;
+		font-family: 'Nunito', sans-serif;
 		font-size: clamp(1.125rem, 3vw, 1.375rem);
 		font-weight: 600;
 		color: #334155;

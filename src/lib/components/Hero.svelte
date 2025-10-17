@@ -11,7 +11,7 @@
 					<a href="https://www.linkedin.com/in/valeria-li88/" target="_blank" rel="noopener noreferrer">
 						<span>LinkedIn</span>
 					</a>
-					<a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+					<a href="https://drive.google.com/file/d/1Q7LZD1qW0qz2LdCSPUmUodNLgSvElaAQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 						<span>CV</span>
 					</a>
 				</div>

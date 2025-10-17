@@ -14,7 +14,7 @@
 			<p class="organization">Program in Linguistics, Emory University</p>
 			<p class="date">January 2024 - May 2025</p>
 			<p>
-				Teaching assistant for LING 201 (Foundations of Linguistics) with Dr. Erica R. Britt and LING 101 (Language Diversity in the US) with Dr. Susan Tamasi. Supported professors in classroom lectures and activities for 40 students per semester. Hosted extracurricular office hours for students regarding class and other advising endeavors.
+				Teaching assistant for LING 201 (Foundations of Linguistics) with Dr. Erica R. Britt and LING 101 (Language Diversity in the US) with Dr. Susan Tamasi. 
 			</p>
 		</div>
 		<div class="content-block">

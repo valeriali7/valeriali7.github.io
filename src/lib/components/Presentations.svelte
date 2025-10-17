@@ -56,7 +56,6 @@
 
 	.presentation {
 		line-height: 1.7;
-		font-size: 0.95rem;
 	}
 
 	@media (max-width: 768px) {

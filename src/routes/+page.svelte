@@ -43,10 +43,10 @@
 
 <main class:dark={darkMode}>
 	<Hero />
-	<Research />
-	<Experience />
 	<Publications />
 	<Presentations />
+	<Research />
+	<Experience />
 </main>
 
 <style>

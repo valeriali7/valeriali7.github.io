@@ -3,7 +3,7 @@
 		<h2>Experience</h2>
 		<div class="content-block">
 			<h3>Graduate Research Assistant</h3>
-			<p class="organization">Department of Spanish & Portuguese, University of Pittsburgh</p>
+			<p class="organization">Department of Linguistics, University of Pittsburgh</p>
 			<p class="date">August 2025 - Present</p>
 			<p>
 				Research focusing on listeners' profile, sociophonetic perception, and sociolinguistic capital negotiation.

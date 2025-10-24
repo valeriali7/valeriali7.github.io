@@ -28,10 +28,18 @@
 		</div>
 		<div class="content-block">
 			<h3>Writing Consultant & ELL Specialist</h3>
-			<p class="organization">Emory Writing Center, Emory University</p>
+			<p class="organization"><a href="https://writingcenter.emory.edu/index.html" target="_blank" rel="noopener noreferrer">Emory Writing Center</a>, Emory University</p>
 			<p class="date">August 2023 - May 2025</p>
 			<p>
 				Tutored 100+ students across Emory College of Arts and Sciences, Nell Hodgson Woodruff School of Nursing, Laney Graduate School, and Emory Medical Imaging Program on writing in multiple disciplines, styles, and languages. Worked with multiple international students and monastic exchange students with Emory-Tibet Science Initiative as an ELL tutor.
+			</p>
+		</div>
+		<div class="content-block">
+			<h3>Undergraduate Research Assistant</h3>
+			<p class="organization"><a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">BaBL Lab</a>, Department of Psychology, Emory University</p>
+			<p class="date">August 2022 - May 2025</p>
+			<p>
+				Research focused on the intersection of language and cognition with a focus on bilingualism and executive function in children.
 			</p>
 		</div>
 

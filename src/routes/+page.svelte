@@ -126,7 +126,8 @@
 		cursor: pointer;
 		font-size: 1.25rem;
 		border-radius: 6px;
-		transition: opacity 0.2s ease, border-color 0.3s ease, background-color 0.3s ease;
+		transition: opacity 0.2s ease, border-color 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+		color: #475569;
 	}
 
 	.theme-toggle:hover {
@@ -135,6 +136,7 @@
 
 	nav.dark .theme-toggle {
 		border-color: #475569;
+		color: #f1f5f9;
 	}
 
 	nav.dark .theme-toggle:hover {

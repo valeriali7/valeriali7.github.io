@@ -29,11 +29,11 @@
 			<span></span>
 		</button>
 		<div class="nav-links" class:open={mobileMenuOpen}>
-			<a href="#about" onclick={closeMobileMenu}>About</a>
-			<a href="#publications" onclick={closeMobileMenu}>Publications</a>
-			<a href="#presentations" onclick={closeMobileMenu}>Presentations</a>
+			<a href="#about" onclick={closeMobileMenu}>about</a>
+			<a href="#publications" onclick={closeMobileMenu}>publications</a>
+			<a href="#presentations" onclick={closeMobileMenu}>presentations</a>
 			<!-- <a href="#research" onclick={closeMobileMenu}>Research</a> -->
-			<a href="#experience" onclick={closeMobileMenu}>Experience</a>
+			<a href="#experience" onclick={closeMobileMenu}>experience</a>
 		</div>
 		<button class="theme-toggle" onclick={toggleDarkMode}>
 			{darkMode ? '☀︎':'⏾'}
@@ -54,13 +54,13 @@
 	nav {
 		position: sticky;
 		top: 0;
-		background-color: #ffffff;
+		background-color: #f8fafc;
 		z-index: 100;
 		transition: background-color 0.3s ease;
 	}
 
 	nav.dark {
-		background-color: #1e293b;
+		background-color: #0f172a;
 	}
 
 	.nav-container {
@@ -86,7 +86,7 @@
 	.hamburger span {
 		width: 24px;
 		height: 2px;
-		background-color: #475569;
+		background-color: #1e293b;
 		transition: background-color 0.3s ease;
 	}
 
@@ -100,7 +100,7 @@
 	}
 
 	.nav-links a {
-		font-size: 1.25rem;
+		font-size: 1.13rem;
 		font-weight: 500;
 		color: #475569;
 		transition: color 0.2s ease;
@@ -140,7 +140,7 @@
 	}
 
 	nav.dark .theme-toggle:hover {
-		background-color: #334155;
+		background-color: #0f172a;
 	}
 
 	main {
@@ -178,7 +178,7 @@
 		}
 
 		nav.dark .nav-links {
-			background-color: #1e293b;
+			background-color: #0f172a;
 		}
 
 		.nav-links.open {
@@ -193,7 +193,7 @@
 		}
 
 		nav.dark .nav-links a {
-			border-bottom-color: #334155;
+			border-bottom-color: #0f172a;
 		}
 
 		.nav-links a:last-child {

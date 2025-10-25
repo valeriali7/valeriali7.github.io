@@ -16,7 +16,7 @@
 						</svg>
 						<span>LinkedIn</span>
 					</a>
-					<a href="https://drive.google.com/file/d/1Q7LZD1qW0qz2LdCSPUmUodNLgSvElaAQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+					<a href="https://drive.google.com/file/d/1Uwg41wZRolKVS0VPf8OozVPu80KzML8-/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
 							<polyline points="14 2 14 8 20 8"></polyline>
@@ -46,7 +46,7 @@
 					My research primarily exists in the areas of Spanish language variation, sociophonetics, and discourse analysis. I am particularly interested in multilingualism in Latin America. I am also tangentially interested in the development and maintenance of virtual language and culture.
 				</p>
 				<p>
-					I graduated from Emory University with a B.S. in Psychology and Linguistics with Highest Honors. My honors research was advised by <a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank" rel="noopener noreferrer">Erica R. Britt</a>, <a href="https://psychology.emory.edu/people/faculty/yamasaki-brianna.html" target="_blank" rel="noopener noreferrer">Brianna L. Yamasaki</a>, and <a href="https://www.ericakanesaka.com/" target="_blank" rel="noopener noreferrer">Erica Kanesaka</a> on discourse analysis of virtual language. I was also part of the <a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">Brain, Behavior, and Broader Learning Laboratory</a> under Brianna L. Yamasaki where I conducted neuropsychological research on the intersection of multilingualism and cognitive behaviors and development such as executive function.
+					I graduated from Emory University with a B.S. in Psychology and Linguistics with Highest Honors. My honors research was advised by <a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank" rel="noopener noreferrer">Erica R. Britt</a>, <a href="https://psychology.emory.edu/people/faculty/yamasaki-brianna.html" target="_blank" rel="noopener noreferrer">Brianna L. Yamasaki</a>, and <a href="https://www.ericakanesaka.com/" target="_blank" rel="noopener noreferrer">Erica Kanesaka</a> on discourse analysis of virtual language. I was also a research assistant in the <a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">Brain, Behavior, and Broader Learning Laboratory</a> under Brianna L. Yamasaki where I conducted neuropsychological research on the intersection of multilingualism and cognitive behaviors and development such as executive function.
 				</p>
 				<p>
 					Currently, I am an instructor of Spanish language at Pitt supervised by <a href="https://www.spanport.pitt.edu/people/dolores-lima" target="_blank" rel="noopener noreferrer">Dolores Lima</a>, teaching courses like SPAN 0103 Intermediate Spanish 3. At Emory, I was extensively involved with the <a href="https://writingcenter.emory.edu/index.html" target="_blank" rel="noopener noreferrer">Emory Writing Center</a> supervised by <a href="https://melissatyang.com/" target="_blank" rel="noopener noreferrer">Melissa T. Yang</a> and <a href="https://levinarnsperger.com/" target="_blank" rel="noopener noreferrer">Levin Arnsperger</a> where I worked as a writing consultant and English Language Learner instructor for ESL students.

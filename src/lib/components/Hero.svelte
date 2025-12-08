@@ -52,7 +52,7 @@
 					Currently, I am an instructor of Spanish language at Pitt supervised by <a href="https://www.spanport.pitt.edu/people/dolores-lima" target="_blank" rel="noopener noreferrer">Dolores Lima</a>, teaching courses like SPAN 0103 Intermediate Spanish 3. At Emory, I was extensively involved with the <a href="https://writingcenter.emory.edu/index.html" target="_blank" rel="noopener noreferrer">Emory Writing Center</a> supervised by <a href="https://melissatyang.com/" target="_blank" rel="noopener noreferrer">Melissa T. Yang</a> and <a href="https://levinarnsperger.com/" target="_blank" rel="noopener noreferrer">Levin Arnsperger</a> where I worked as a writing consultant and English Language Learner instructor for ESL students.
 				</p>
 				<p>
-					During my free time, I enjoy being indecisive over sweet treats and <a href="https://drive.google.com/drive/folders/1f-asKUhYbjSqp6ypb9Um-hOj8pRSzaw9?usp=drive_link" target="_blank" rel="noopener noreferrer">cooking</a> (especially for friends)!
+					During my free time, I enjoy being indecisive over sweet treats and cooking (especially for friends)!
 				</p>
 			</div>
 		</div>

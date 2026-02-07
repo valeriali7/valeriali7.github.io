@@ -3,7 +3,7 @@
 		<h2>Presentations</h2>
 		<div class="content-block">
 			<p class="presentation">
-				<strong>Li, V.</strong> (2025). <em>"Elmo, I'm Not OK": The Structure and Discursive Role of Trauma Dumping on Twitter.</em> Linguistic Society of America Annual Meeting 2026.
+				<strong>Li, V.</strong> (2026). <em>"Elmo, I'm Not OK": The Structure and Discursive Role of Trauma Dumping on Twitter.</em> Linguistic Society of America Annual Meeting 2026.
 			</p>
 		</div>
 		<div class="content-block">

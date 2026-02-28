@@ -3,7 +3,7 @@
 		<h2>Publications</h2>
 		<div class="content-block">
 			<p class="publication">
-				<strong>Li. V. </strong> (in prep). <em>Negotiations of power through language in animated media.</em>
+				<strong>Li. V. </strong> (in prep). <em>“Elmo, I\’m Not OK”: The Structure and Discursive Role of Trauma Dumping on Twitter.</em>
 			</p>
 			<p class="publication">
 				Yamasaki, B. L., <strong>Li, V.</strong>, Woodruff, S., Luk, G., & Purpura., D. J. (in prep). <em>A qualitative review of state-level early learning standards for language and literacy.</em>

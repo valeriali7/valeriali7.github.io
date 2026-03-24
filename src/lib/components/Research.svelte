@@ -1,6 +1,6 @@
 <section class="section" id="research">
 	<div class="container">
-		<h2>Research</h2>
+		<h2>Research & Projects</h2>
 		<div class="content-block">
 			<h3>Independent Honors Researcher</h3>
 			<p class="organization">Program in Linguistics, Emory University</p>
@@ -26,11 +26,11 @@
 			</p>
 		</div>
 		<div class="content-block">
-			<h3>Research Assistant</h3>
-			<p class="organization">Brain, Behavior, and Broader Learning Lab, Emory University</p>
-			<p class="date">August 2022 - May 2025</p>
+			<h3>Listener's Profiles and Listening Effort in Mandarin Chinese-Accented Spanish in Bolivia</h3>
+			<p class="organization">Department of Linguistics, University of Pittsburgh</p>
+			<p class="date">August 2025 - Present</p>
 			<p>
-				Researched neurological mechanisms of language learning, bilingualism, and causes/consequences of individual differences in language and reading skills under Dr. Brianna L. Yamasaki. Performed qualitative coding methods and executive function computerized tasks for participants. Completed fMRI safety training.
+				Perceptual study of listening effort mediated by individual listener characteristics including linguistic profiles and community beliefs contextualized by Mandarin-accented Spanish in Santa Cruz, Bolivia.
 			</p>
 		</div>
 	</div>

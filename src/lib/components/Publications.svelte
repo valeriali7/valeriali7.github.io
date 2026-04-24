@@ -3,7 +3,7 @@
 		<h2>Publications</h2>
 		<div class="content-block">
 			<p class="publication">
-				<strong>Li. V. </strong> (2026). <em>Li, V. (2026). “Hi Elmo, I’m Not OK”: The Structure, Use, and Role of Trauma Dumping on Social Media. Proceedings of the Linguistic Society of America, 11(1), 6061. https://doi.org/10.3765/plsa.v11i1.6061 </em>
+				<strong>Li. V. </strong> (2026). <em> “Hi Elmo, I’m Not OK”: The Structure, Use, and Role of Trauma Dumping on Social Media. Proceedings of the Linguistic Society of America, 11(1), 6061. https://doi.org/10.3765/plsa.v11i1.6061 </em>
 			</p>
 			<p class="publication">
 				Yamasaki, B. L., <strong>Li, V.</strong>, Woodruff, S., Luk, G., & Purpura., D. J. (in prep). <em>A qualitative review of state-level early learning standards for language and literacy.</em>

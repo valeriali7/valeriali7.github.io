@@ -40,10 +40,10 @@
 				<h3>PhD Student in Hispanic Linguistics @Pitt</h3>
 				<!-- To delete paragraph, delete from <p> to </p> -->
 				<p> 
-					Hi! I'm Valeria, a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>.
+					Hi! I'm Valeria. I am a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>.
 				</p>
 				<p>
-					My research primarily exists in the areas of Spanish language variation, sociophonetics, and discourse analysis. I am particularly interested in bilingualism and the Asian diaspora in Latin America with a focus on Bolivia. I am also tangentially interested in the development and maintenance of virtual language and culture.
+					My research primarily exists in the areas of Spanish language variation, sociophonetics, and discourse analysis. I am particularly interested in bilingualism and the Asian diaspora in the Hispanic world. I am also tangentially interested in the development and maintenance of virtual language and culture.
 				</p>
 				<p>
 					I graduated from Emory University with a B.S. in Psychology and Linguistics with Highest Honors. I was primarily involved as a research assistant in the <a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">Brain, Behavior, and Broader Learning Laboratory</a> under Brianna L. Yamasaki where I conducted neuropsychological research on the intersection of multilingualism and cognitive behaviors and development. My honors research was advised by <a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank" rel="noopener noreferrer">Erica R. Britt</a>, <a href="https://psychology.emory.edu/people/faculty/yamasaki-brianna.html" target="_blank" rel="noopener noreferrer">Brianna L. Yamasaki</a>, and <a href="https://www.ericakanesaka.com/" target="_blank" rel="noopener noreferrer">Erica Kanesaka</a> on discourse analysis of virtual language.

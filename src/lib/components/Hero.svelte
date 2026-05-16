@@ -40,7 +40,7 @@
 				<h3>PhD Student in Hispanic Linguistics @Pitt</h3>
 				<!-- To delete paragraph, delete from <p> to </p> -->
 				<p> 
-					Hi! I'm Valeria. I am a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>.
+					Hi! I'm Valeria. I am a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>. I am a linguist, researcher, and educator.
 				</p>
 				<p>
 					My research primarily exists in the areas of Spanish language variation, sociophonetics, and discourse analysis. I am particularly interested in bilingualism and the Asian diaspora in the Hispanic world. I am also tangentially interested in the development and maintenance of virtual language and culture.

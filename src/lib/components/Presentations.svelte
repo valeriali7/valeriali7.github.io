@@ -22,7 +22,7 @@
 		<div class="content-block">
 			<p class="presentation">
 				<span class="tag-poster">Poster</span>
-				<strong>Li, V.</strong>, Luong, J., Gomez, D., & Pretsky, S. (2023). <em>Investigating the interplay between academic certainty and life satisfaction.</em> Fall 2023 Emory Psychology Symposium.
+				<strong>Li, V.</strong>, Luong, J., Gomez, D., &amp; Pretsky, S. (2023). <em>Investigating the interplay between academic certainty and life satisfaction.</em> Fall 2023 Emory Psychology Symposium.
 			</p>
 		</div>
 		<div class="content-block">
@@ -34,7 +34,7 @@
 		<div class="content-block">
 			<p class="presentation">
 				<span class="tag-poster">Poster</span>
-				<strong>Li, V.</strong> & Kim, Y. (2023). <em>Phonetic realization of morphologically distinct homophone pairs in Spanish.</em> Summer Undergraduate Research Experience 2023 Symposium.
+				<strong>Li, V.</strong> &amp; Kim, Y. (2023). <em>Phonetic realization of morphologically distinct homophone pairs in Spanish.</em> Summer Undergraduate Research Experience 2023 Symposium.
 			</p>
 		</div>
 	</div>

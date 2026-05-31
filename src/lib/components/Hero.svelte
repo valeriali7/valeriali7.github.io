@@ -1,5 +1,4 @@
 <script>
-	import profileImage from 'src/lib/assets/profile.png';
 </script>
 
 <section class="hero" id="about">

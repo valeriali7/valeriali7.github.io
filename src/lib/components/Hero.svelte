@@ -1,5 +1,5 @@
 <script>
-	import profileImage from 'C:\Users\Valeria\Desktop\GitHub\valeriali7.github.io\src\lib\assets\profile.png';
+	import profileImage from 'src/lib/assets/profile.png';
 </script>
 
 <section class="hero" id="about">

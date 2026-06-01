@@ -26,6 +26,12 @@
 						</svg>
 						<span>CV</span>
 					</a>
+					<a href="https://www.notion.so/Valeria-Li-cecc5bfc889b82b39a808109d428726b" target="_blank" rel="noopener noreferrer">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18"/><path d="M3 9h6"/><path d="M3 15h6"/>
+						</svg>
+						<span>Portfolio</span>
+					</a>
 					<div class="email-button">
 						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 							<rect x="2" y="4" width="20" height="16" rx="2"></rect>

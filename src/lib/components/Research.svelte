@@ -10,14 +10,6 @@
 			</p>
 		</div>
 		<div class="content-block">
-			<h3>Independent Researcher</h3>
-			<p class="organization">Emory Writing Center, Emory University</p>
-			<p class="date">August 2023 - February 2024</p>
-			<p>
-				Conducted independent research project on social dynamics in academic spaces and tutoring practices through qualitative interview analysis. Presented research at Southeastern Writing Center Association Conference 2024.
-			</p>
-		</div>
-		<div class="content-block">
 			<h3>Emory Summer Undergraduate Research Experience Scholar</h3>
 			<p class="organization">Undergraduate Research Programs, Emory University</p>
 			<p class="date">May 2023 - August 2023</p>

@@ -16,7 +16,7 @@
 						</svg>
 						<span>LinkedIn</span>
 					</a>
-					<a href="https://drive.google.com/file/d/1NZSYwQys7UA7zNhgbCHmnTX1Cgrs9HCq/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+					<a href="https://drive.google.com/file/d/1-wNRrnvLswu9fyPkHGMWCuY4fWhxraMg/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
 							<polyline points="14 2 14 8 20 8"></polyline>
@@ -49,13 +49,13 @@
 					Hi! I'm Valeria. I am a PhD student in Hispanic Linguistics at the <a href="https://www.linguistics.pitt.edu/" target="_blank" rel="noopener noreferrer">University of Pittsburgh</a> advised by <a href="https://martaortegallebaria.com/" target="_blank" rel="noopener noreferrer">Marta Ortega-Llebaria</a> and <a href="https://sfkiesling.com/" target="_blank" rel="noopener noreferrer">Scott F. Kiesling</a>. I am a linguist, researcher, and educator.
 				</p>
 				<p>
-					My work sits at the intersection of sociophonetics, language variation, and discourse analysis, with a particular focus on bilingualism and the Asian diaspora in the Hispanic world. As a researcher and instructor of Spanish, I'm also invested in language pedagogy and the broader applications of linguistics research.
+					My work sits at the intersection of sociophonetics, language variation, and discourse analysis, with a focus on bilingualism and the Asian diaspora in the Hispanic world. As a researcher and instructor of Spanish, I'm also invested in language pedagogy and the broader applications of linguistics research.
 				</p>
 				<p>
 					I hold a B.S. in Psychology and Linguistics with Highest Honors from Emory University, where I researched multilingualism and cognitive development in the <a href="https://babllab.com/" target="_blank" rel="noopener noreferrer">Brain, Behavior, and Broader Learning Laboratory</a>. My honors research was advised by <a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank" rel="noopener noreferrer">Erica R. Britt</a>, <a href="https://psychology.emory.edu/people/faculty/yamasaki-brianna.html" target="_blank" rel="noopener noreferrer">Brianna L. Yamasaki</a>, and <a href="https://www.ericakanesaka.com/" target="_blank" rel="noopener noreferrer">Erica Kanesaka</a> on discourse analysis of virtual language.
 				</p>
 				<p>
-					Outside the lab, I cook for friends and remain perpetually indecisive about dessert.
+					Outside of work, I cook for friends and remain perpetually indecisive about dessert.
 				</p>
 			</div>
 		</div>

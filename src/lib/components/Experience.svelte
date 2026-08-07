@@ -27,8 +27,8 @@
 
 			<p>Teaching assistant for:</p>
 			<ul>
-				<li>LING 201 – Foundations of Linguistics (Spring 2024)</li>
-				<li>LING 101 – Language Diversity in the US (Fall 2024, Spring 2025)</li>
+				<li>LING 201 – Foundations of Linguistics (Fall 2024, Spring 2025)</li>
+				<li>LING 101 – Language Diversity in the US (Spring 2024)</li>
 			</ul>
 		</div>
 		<div class="content-block">

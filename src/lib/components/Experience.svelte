@@ -10,12 +10,15 @@
 			</p>
 		</div>
 		<div class="content-block">
-			<h3>Graduate Teaching Assistant</h3>
-			<p class="organization">Department of Spanish & Portuguese, University of Pittsburgh</p>
-			<p class="date">August 2025 - Present</p>
-			<p>
-				Instructor for SPAN 0103 Beginner-Intermediate Spanish. Supervised by Dr. Dolores Lima.
-			</p>
+   			 <h3>Graduate Teaching Assistant</h3>
+  			  <p class="organization">Department of Spanish &amp; Portuguese, University of Pittsburgh</p>
+  			  <p class="date">August 2025 - Present</p>
+
+  			  <p>Instructor on record for:</p>
+   			 <ul>
+  			    <li>SPAN 0103 – Intermediate Spanish III (Fall 25, Spring 26)</li>
+    			<li>SPAN 0101 – Elementary Spanish I (Fall 26)</li>   			 
+			</ul>
 		</div>
 		<div class="content-block">
 			<h3>Undergraduate Teaching Assistant</h3>

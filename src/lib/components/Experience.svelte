@@ -24,12 +24,12 @@
 			<h3>Undergraduate Teaching Assistant</h3>
 			<p class="organization">Program in Linguistics, Emory University</p>
 			<p class="date">January 2024 - May 2025</p>
-			<p>
-   			 <ul>
-    			<li>LING 201 – Foundations of Linguistics (Spring 24)</li>
-				<li>LING 101 – Language Diversity in the US (Fall 24, Spring 25)</li>
+
+			<p>Teaching assistant for:</p>
+			<ul>
+				<li>LING 201 – Foundations of Linguistics (Spring 2024)</li>
+				<li>LING 101 – Language Diversity in the US (Fall 2024, Spring 2025)</li>
 			</ul>
-			</p>
 		</div>
 		<div class="content-block">
 			<h3>Writing Consultant & ELL Specialist</h3>

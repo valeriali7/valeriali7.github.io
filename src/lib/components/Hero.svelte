@@ -42,7 +42,7 @@
 				</div>
 			</div>
 			<div class="about-content">
-				<h1>Valeria Li <span class="pronunciation">/və.ˈlɛ.ɹi.ə ˈli/</span></h1>
+				<h1>Valeria Li <span class="pronunciation">/ba.ˈle.ɾja ˈli/</span></h1>
 				<h3>PhD Student in Hispanic Linguistics @Pitt</h3>
 				<!-- To delete paragraph, delete from <p> to </p> -->
 				<p> 
